@@ -1,0 +1,11 @@
+speed,distance,traffic,road,risk
+20,80,Low,Good,SAFE
+40,60,Low,Good,SAFE
+55,40,Medium,Good,WARNING
+65,30,Medium,Bad,WARNING
+75,25,High,Bad,DANGER
+85,20,High,Bad,DANGER
+95,15,High,Bad,DANGER
+30,70,Low,Good,SAFE
+50,45,Medium,Good,WARNING
+90,18,High,Bad,DANGER
